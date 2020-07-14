@@ -2,4 +2,5 @@ Programming Resolution 2020:
 - Javascript
 - Laravel
 - python
-- C#
+- Android
+- ERP
